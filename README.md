@@ -74,9 +74,9 @@ To run this project locally:
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out!
 
 📧 Email: [sai2003vr@gmail.com] <br>
-🌐 Portfolio Website: [https://portfolio-by-saidhanush.vercel.app/]<br>
-💼 LinkedIn: [https://www.linkedin.com/in/sai-dhanush-vr/]<br>
-🐦 Twitter: [https://x.com/dhanush_x27]<br>
+🌐 Portfolio Website: [https://saidhanush-portfolio.netlify.app/]<br>
+💼 LinkedIn: [https://www.linkedin.com/in/saidhanush27]<br>
+
 
 
 
