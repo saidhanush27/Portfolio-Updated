@@ -60,7 +60,7 @@ The portfolio is built using the following technologies:
 To run this project locally:  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/saidhanush27/mysite.git
 
 
 
