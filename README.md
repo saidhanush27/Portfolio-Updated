@@ -42,7 +42,7 @@ The portfolio is built using the following technologies:
 - **CSS3**: Styling and animations for a visually engaging experience.  
 - **JavaScript**: Interactive and dynamic features.  
 - **React.js**: Front-end framework for building a modular and scalable portfolio.  
-- **Node.js** (if applicable): Backend for handling form submissions or dynamic content.  
+- **Node.js** : Backend for handling form submissions or dynamic content.  
 
 ---
 
@@ -66,7 +66,7 @@ To run this project locally:
 
 ## 📷 Preview
 
-[Click to View](https://saidhanush-portfolio.netlify.app/)
+[Click to View](https://saidhanushvr-portfolio.netlify.app/)
 
 
 
@@ -74,7 +74,7 @@ To run this project locally:
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out!
 
 📧 Email: [sai2003vr@gmail.com] <br>
-🌐 Portfolio Website: [https://saidhanush-portfolio.netlify.app/]<br>
+🌐 Portfolio Website: [https://saidhanushvr-portfolio.netlify.app/]<br>
 💼 LinkedIn: [https://www.linkedin.com/in/saidhanush27]<br>
 
 
